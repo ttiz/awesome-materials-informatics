@@ -1,8 +1,8 @@
 # Awesome Materials Informatics [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 
-The novel discipline of _materials informatics_ is a junction of materials, computer, and data sciences. It aims to unite the nowadays competing physics- and data-intensive efforts for the most impactful applied science, that transformed our society in the 20th century.
+マテリアルズ・インフォマティクスは、材料科学、コンピュータ科学、データ科学を融合した新しい学問分野です。この分野は、20世紀の社会を変えた最もインパクトのある応用科学のために、現在では競合する物理学とデータを駆使した努力を統合することを目的としています。
 
-Contributions are very welcome - please follow the [guidelines](CONTRIBUTING.md).
+投稿を歓迎します。ガイドラインに従ってください。
 
 
 ## Contents
