@@ -19,8 +19,9 @@
 - [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
 - [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) 
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
-- [ASR](https://gitlab.com/dtorel/asr) - Atomic Simulation Recipes, based on ASE (**Python**).
-- [atomate](https://hackingmaterials.github.io/atomate) - Materials science workflows based on FireWorks, developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
+原子シミュレーション環境の構築
+- [ASR](https://gitlab.com/dtorel/asr) - ASEをベースにした原子シミュレーションのレシピ (**Python**).
+- [atomate](https://hackingmaterials.github.io/atomate) - LBNLで開発されたFireWorksをベースにしたマテリアルサイエンスのワークフロー (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
 - [CAMD](https://github.com/tri-amdd/camd) - Agent-based sequential learning software for materials discovery (**Python**). [![Github Stars](https://img.shields.io/github/stars/tri-amdd/camd?style=social)](https://github.com//tri-amdd/camd)
 - [cclib](https://cclib.github.io) - Parse and interpret the results of computational chemistry packages (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
@@ -95,6 +96,7 @@
 
 
 ## Standardization initiatives
+標準化への取り組み
 
 - [Blue Obelisk](https://blueobelisk.github.io) - Movement for open data, open source and open standards in chemistry and materials science (by Murray-Rust).
 - [CIF](https://www.iucr.org/resources/cif) - Crystallographic Information File, a standard for crystallographic information (by IUCr, International Union of Crystallography).
