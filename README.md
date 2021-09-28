@@ -16,7 +16,7 @@
 
 ## Software and products
 ab-initio Computing 第一原理計算
-- [AFLOW](http://materials.duke.edu/AFLOW) - ハイスループット第一原理計算(**C++**).
+
 - [AiiDA](http://aiida.net) - 第一原理デザインのための自動化されたインフラとデータベース (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) 
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 原子シミュレーション環境の構築
@@ -25,7 +25,6 @@ ab-initio Computing 第一原理計算
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
 - [CAMD](https://github.com/tri-amdd/camd) - 材料探索のためのエージェントベースの逐次学習ソフトウェア (**Python**). [![Github Stars](https://img.shields.io/github/stars/tri-amdd/camd?style=social)](https://github.com//tri-amdd/camd)
 - [cclib](https://cclib.github.io) - 計算化学パッケージの結果の解析と解釈 (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
-- [cctbx](https://cctbx.github.io) - 計算結晶学ツールボックス(**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project)
 - [Custodian](https://github.com/materialsproject/custodian) - シンプルで堅牢かつ柔軟なジャストインタイム（JIT）のジョブ管理フレームワーク (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian) 
 - [FireWorks](https://materialsproject.github.io/fireworks) - LBNLで開発されたワークフローエンジン (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
@@ -33,11 +32,11 @@ ab-initio Computing 第一原理計算
 - [ioChem-BD](https://www.iochem-bd.org) - 計算化学ビッグデータ管理のためのソリューション (**Java**).
 - [matador](https://github.com/ml-evs/matador) - ハイスループットDFTを集約・解析するためのライブラリ (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
 - [matminer](https://github.com/hackingmaterials/matminer) - A library for data mining in materials science (**Python**) [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer)
-- [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
+- [MDCS](https://github.com/usnistgov/MDCS) - マテリアルデータキュレーションシステム (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
-- [OACIS](https://crest-cassia.github.io/oacis/en/) - Job management software for simulation studies using a **Ruby on Rails** webserver. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
+- [OACIS](https://crest-cassia.github.io/oacis/en/) - **Ruby on Rails**ウェブサーバを用いたシミュレーション研究のためのジョブ管理ソフトウェア. [![Github Stars](https://img.shields.io/github/stars/crest-cassia/oacis?style=social)](https://github.com/crest-cassia/oacis) 
 - [optimade-python-tools](https://github.com/Materials-Consortia/optimade-python-tools) - Tools for [OPTIMADE APIs](https://www.optimade.org) in **Python**. [![Github Stars](https://img.shields.io/github/stars/Materials-Consortia/optimade-python-tools?style=social)](https://github.com/Materials-Consortia/optimade-python-tools)
-- [pyiron](https://github.com/pyiron) - Integrated development environment (IDE) for computational materials science (**Python**). [![Github Stars](https://img.shields.io/github/stars/pyiron/pyiron?style=social)](https://github.com/pyiron/pyiron) 
+- [pyiron](https://github.com/pyiron) - 計算材料科学のための統合開発環境(IDE)  (**Python**). [![Github Stars](https://img.shields.io/github/stars/pyiron/pyiron?style=social)](https://github.com/pyiron/pyiron) 
 - [pymatflow](https://github.com/DeqiTang/pymatflow) - Toolbox for (high-throughput) DFT modeling of materials (**Python**). [![Github Stars](https://img.shields.io/github/stars/deqitang/pymatflow?style=social)](https://github.com/deqitang/pymatflow) 
 - [Pymatgen](https://pymatgen.org) - A robust, open-source **Python** library for materials analysis. [![Github Stars](https://img.shields.io/github/stars/materialsproject/pymatgen?style=social)](https://github.com/materialsproject/pymatgen) 
 - [pymks](https://pymks.org) - Materials Knowledge System (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsinnovation/pymks?style=social)](https://github.com/materialsinnovation/pymks) 
@@ -47,6 +46,8 @@ ab-initio Computing 第一原理計算
 - [RDKit](https://github.com/rdkit/rdkit) - A collection of cheminformatics and machine-learning software written in **C++** and **Python**. [![Github Stars](https://img.shields.io/github/stars/rdkit/rdkit?style=social)](https://github.com/rdkit/rdkit)
 - [tilde](https://github.com/tilde-lab/tilde) - **Python** framework for ab initio data repositories. [![Github Stars](https://img.shields.io/github/stars/tilde-lab/tilde?style=social)](https://github.com/tilde-lab/tilde) 
 
+- [AFLOW](http://materials.duke.edu/AFLOW) - ハイスループット第一原理計算(**C++**).
+- [cctbx](https://cctbx.github.io) - 計算結晶学ツールボックス(**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project)
 
 ## Cloud simulation platforms
 
