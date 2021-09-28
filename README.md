@@ -15,23 +15,23 @@
 
 
 ## Software and products
-
-- [AFLOW](http://materials.duke.edu/AFLOW) - High-Throughput ab-initio Computing (**C++**).
-- [AiiDA](http://aiida.net) - Automated Infrastructure and Database for Ab-initio design (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) 
+ab-initio Computing 第一原理計算
+- [AFLOW](http://materials.duke.edu/AFLOW) - ハイスループット第一原理計算(**C++**).
+- [AiiDA](http://aiida.net) - 第一原理デザインのための自動化されたインフラとデータベース (**Python**). [![Github Stars](https://img.shields.io/github/stars/aiidateam/aiida-core?style=social)](https://github.com/aiidateam/aiida-core) 
 - [ASE](https://wiki.fysik.dtu.dk/ase) - Atomic Simulation Environment (**Python**).
 原子シミュレーション環境の構築
 - [ASR](https://gitlab.com/dtorel/asr) - ASEをベースにした原子シミュレーションのレシピ (**Python**).
 - [atomate](https://hackingmaterials.github.io/atomate) - LBNLで開発されたFireWorksをベースにしたマテリアルサイエンスのワークフロー (**Python**). [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/atomate?style=social)](https://github.com/hackingmaterials/atomate) 
 - [BIOVIA Materials Studio](https://www.3ds.com/products-services/biovia/products/molecular-modeling-simulation/biovia-materials-studio/) - _Proprietary_ simulation infrastructure.
-- [CAMD](https://github.com/tri-amdd/camd) - Agent-based sequential learning software for materials discovery (**Python**). [![Github Stars](https://img.shields.io/github/stars/tri-amdd/camd?style=social)](https://github.com//tri-amdd/camd)
-- [cclib](https://cclib.github.io) - Parse and interpret the results of computational chemistry packages (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
-- [cctbx](https://cctbx.github.io) - Computational Crystallography Toolbox (**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project)
-- [Custodian](https://github.com/materialsproject/custodian) - Simple, robust and flexible just-in-time (JIT) job management framework (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian) 
-- [FireWorks](https://materialsproject.github.io/fireworks) - Workflow engine developed at LBNL (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
+- [CAMD](https://github.com/tri-amdd/camd) - 材料探索のためのエージェントベースの逐次学習ソフトウェア (**Python**). [![Github Stars](https://img.shields.io/github/stars/tri-amdd/camd?style=social)](https://github.com//tri-amdd/camd)
+- [cclib](https://cclib.github.io) - 計算化学パッケージの結果の解析と解釈 (**Python**). [![Github Stars](https://img.shields.io/github/stars/cclib/cclib?style=social)](https://github.com/cclib/cclib) 
+- [cctbx](https://cctbx.github.io) - 計算結晶学ツールボックス(**C++**). [![Github Stars](https://img.shields.io/github/stars/cctbx/cctbx_project?style=social)](https://github.com/cctbx/cctbx_project)
+- [Custodian](https://github.com/materialsproject/custodian) - シンプルで堅牢かつ柔軟なジャストインタイム（JIT）のジョブ管理フレームワーク (**Python**).  [![Github Stars](https://img.shields.io/github/stars/materialsproject/custodian?style=social)](https://github.com/materialsproject/custodian) 
+- [FireWorks](https://materialsproject.github.io/fireworks) - LBNLで開発されたワークフローエンジン (**Python**). [![Github Stars](https://img.shields.io/github/stars/materialsproject/fireworks?style=social)](https://github.com/materialsproject/fireworks) 
 - [Granta MI](https://www.grantadesign.com/products/mi) - _Proprietary_ enterprise infrastructure for the materials data.
 - [httk](https://httk.openmaterialsdb.se) - High-throughput toolkit (**Python**). [![Github Stars](https://img.shields.io/github/stars/rartino/httk?style=social)](https://github.com/rartino/httk) 
-- [ioChem-BD](https://www.iochem-bd.org) - Solution to manage computational chemistry Big Data (**Java**).
-- [matador](https://github.com/ml-evs/matador) - A library for aggregation and analysis of high-throughput DFT (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
+- [ioChem-BD](https://www.iochem-bd.org) - 計算化学ビッグデータ管理のためのソリューション (**Java**).
+- [matador](https://github.com/ml-evs/matador) - ハイスループットDFTを集約・解析するためのライブラリ (**Python**). [![Github Stars](https://img.shields.io/github/stars/ml-evs/matador?style=social)](https://github.com/ml-evs/matador)
 - [matminer](https://github.com/hackingmaterials/matminer) - A library for data mining in materials science (**Python**) [![Github Stars](https://img.shields.io/github/stars/hackingmaterials/matminer?style=social)](https://github.com/hackingmaterials/matminer)
 - [MDCS](https://github.com/usnistgov/MDCS) - Materials Data Curation System (**Python**). [![Github Stars](https://img.shields.io/github/stars/usnistgov/MDCS?style=social)](https://github.com/usnistgov/MDCS) 
 - [MedeA](https://www.materialsdesign.com/medea-software) - _Proprietary_ computational **Tcl** environment by Materials Design, Inc.
